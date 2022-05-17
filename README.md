@@ -1,2 +1,5 @@
 # git
 Elzero 
+
+
+##project notes
